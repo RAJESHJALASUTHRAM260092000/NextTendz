@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #fff;
+  height: 150px;
+  width: 300px;
+  box-shadow: 16px 16px 16px 16px #eaebed;
+  padding: 10px;
+  margin-left: auto;
+  border-radius: 10px;
+}
+.headings {
+  font-size: 20px;
+  color: #616e7c;
+}
+span {
+  color: black;
+}
+
+.para {
+  font-size: 15px;
+  color: #616e7c;
+}
+.btns {
+  border-radius: 6px;
+  height: 35px;
+  width: 120px;
+  border: 0px;
+  background-color: #0b69ff;
+  color: #fff;
+  margin-left: auto;
+}
